@@ -1,0 +1,17 @@
+#Nome Del Mondo CASE SENSITIVE
+mondoEvento: miniera
+
+#Tempo in Minuti
+DurataEvento: 60
+
+DurataEventoVIP: 75
+
+#Se il player Logga nel Mondo Evento, in che warp lo teletrasporto?
+warpSeLoggaInMiniera: spawn
+
+
+#Permesso SOLO PER LO STAFF per Bypassare il Timer:
+#mondoeventi.timer.bypass
+
+#Permesso per VIP:
+# mondoeventi.timer.vip

@@ -1,0 +1,4 @@
+name: MondoEventi
+version: '${project.version}'
+main: it.mythictales.mondoeventi.MondoEventi
+api-version: 1.19
